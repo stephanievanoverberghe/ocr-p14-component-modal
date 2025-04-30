@@ -1,0 +1,22 @@
+{
+    "name": "vanoverberghe-react-modal-component",
+    "version": "1.0.1",
+    "description": "Un composant Modal React réutilisable",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Vanoverberghe Stéphanie",
+    "license": "MIT",
+    "type": "commonjs",
+    "dependencies": {
+        "prop-types": "^15.8.1",
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0"
+    },
+    "peerDependencies": {
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0"
+    }
+}
